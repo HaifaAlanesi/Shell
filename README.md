@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for refer
+Schell Scripts for references
